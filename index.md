@@ -9,6 +9,7 @@ The goal of this project is to distribute worldwide a token than can be used by 
 ..* Food
 ..* Gas
 ..* Clothing
+..* Gym Subscription 
 
   
   
